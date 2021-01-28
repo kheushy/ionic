@@ -1,0 +1,7 @@
+{
+  "name": "psa-nsb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
